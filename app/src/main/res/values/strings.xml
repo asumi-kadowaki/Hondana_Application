@@ -1,0 +1,38 @@
+<resources>
+
+    <!--本の個人の状態ページに使用-->
+    <string name="app_name">ホンダナ</string>
+
+    <string name="titleBookDetailPerson">タイトル</string>
+
+    <string name="authorBookDetailPerson">作者</string>
+
+    <string name="buttonRequestPerson">交換する</string>
+
+
+    <!--本を持っている人一覧ページに使用-->
+
+    <string name="textBookOwnerList01">この本を持っている人一覧</string>
+
+    <string name="textBookOwnerListName">ユーザー名</string>
+
+    <string name="textBookOwnerListCondition">状態</string>
+
+    <string name="buttonBookOwnerList">交換する</string>
+
+
+    <!--マイページ編集ページに使用-->
+    <string name="editTextName">ユーザー名</string>
+
+    <string name="editTextProfile">自己紹介を入力してください。(例)好きなジャンルは歴史小説、ビジネス書です。よろしくお願いします。</string>
+
+    <string name="buttonMyPageEdit">プロフィールを変更する</string>
+
+
+    <!--お問い合わせページに使用-->
+    <string name="textInformation01">お問い合わせ</string>
+
+    <string name="textInformation02">お問い合わせ内容を選択してください</string>
+
+
+</resources>
